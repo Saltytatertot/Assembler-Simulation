@@ -1,0 +1,20 @@
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Tatum Gray\Documents\College\Computer Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.exe.config
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csproj.AssemblyReference.cache
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\MTECH\Comp Architecture\AssemblerAssignment\Assembler\Assembler\obj\Debug\Assembler.pdb
