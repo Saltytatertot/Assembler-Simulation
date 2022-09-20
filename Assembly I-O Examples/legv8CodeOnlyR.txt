@@ -1,0 +1,8 @@
+         .data
+Number:	 .doubleword 35, -20, 0x33AAF3154555D499
+
+         .text
+Begin:   ADD    X1, X2, X3
+         SUB	X19, X31, X5
+         ADD  	X6, 0x1000		// Error
+         ADD    X1, X1, X3              // Back in business
